@@ -1,2 +1,2 @@
-# MagasProg1
-Második féléves tárgy, Magasszintű Programozási Nyelvek 1
+# Márton József - FKAQIU
+prog 1
